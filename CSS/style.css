@@ -1,0 +1,16 @@
+button{
+    color: blue;
+    padding: 10px;
+    background-color: yellow;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid #111111;
+
+}
+button:hover{
+    background-color: black;
+    transform: scale(1);
+    transition: ease-in-out 1s all;
+    padding: 20px;
+}
+
